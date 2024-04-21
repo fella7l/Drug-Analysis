@@ -1,7 +1,6 @@
 
-Here's a GitHub README template for your Drug, Condition, and Effect Analysis project:
-
 Drug, Condition, and Effect Analysis with Excel
+
 Overview
 This project focuses on analyzing the relationship between drugs, medical conditions, and their effects using Excel. By leveraging Excel's capabilities, we aim to gain insights into how different drugs interact with various conditions and their resulting effects.
 
